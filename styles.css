@@ -18,12 +18,8 @@ justify-content: space-between;
     color:#E6533C;
 }
 .header{
-<<<<<<< HEAD
    background-color:  black;
  
-=======
-    background-color: black;
->>>>>>> 68174cbf3ed0cbedc53d66481261d49d9b1c1658
 }
 .btn-col{
    background-color:  #E6533C;
@@ -46,13 +42,9 @@ justify-content: space-between;
 }
 .section-1 {
     justify-content: space-between;
-<<<<<<< HEAD
     margin-left: 100px;
     margin-right: 100px;
    
-=======
-    margin-left: 100px;margin-right:100px ;
->>>>>>> 68174cbf3ed0cbedc53d66481261d49d9b1c1658
 }
 .btn-1{
     background-color: #E6533C;
@@ -66,28 +58,21 @@ justify-content: space-between;
     border: solid white;
     padding: 8px;
 }
-<<<<<<< HEAD
 
 
 .div{ display: flex;
      }
-=======
->>>>>>> 68174cbf3ed0cbedc53d66481261d49d9b1c1658
 .card-1{
     background-color: rgba(255, 255, 255, 0.1);
     height: 80px; text-align: center;
     border-radius: 10px;
     width: 180px;
     padding: 10px;
-<<<<<<< HEAD
    margin-top:-400px;margin-left: 850px;
-=======
->>>>>>> 68174cbf3ed0cbedc53d66481261d49d9b1c1658
    
 }
 .card-2{
   background-color:rgba(255, 255, 255, 0.1) ;
-<<<<<<< HEAD
   height: 80px; width: 150px;
  gap: 10px;
  ;border-radius: 10px;
@@ -134,12 +119,4 @@ justify-content: space-between;
     background-color:  rgba(31, 30, 30, 1);
     border-radius: 10px; padding: 20px; 
 } 
-=======
-  height: 80px; width: 100px;
-  text-align: center;
-  padding: 10px;border-radius: 10px;
-  margin-right: 500px;
-   
-}
->>>>>>> 68174cbf3ed0cbedc53d66481261d49d9b1c1658
    
