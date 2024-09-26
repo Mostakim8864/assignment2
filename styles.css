@@ -119,4 +119,21 @@ justify-content: space-between;
     background-color:  rgba(31, 30, 30, 1);
     border-radius: 10px; padding: 20px; 
 } 
+table{
+    border-collapse: collapse;
    
+}
+th{border: 1px solid gray;
+    color: #FFFFFF;
+    padding: 5px 10px;
+}
+  
+td {
+    border: 1px solid gray;
+    color: gray;padding: 5px 10px;
+}
+input{
+    background-color:  rgba(255, 255, 255, 0.6);
+  gap: 20px;  padding: 10px;border-radius: 5px;
+}
+ 
