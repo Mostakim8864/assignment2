@@ -17,9 +17,12 @@ justify-content: space-between;
 .h1-text-colo{
     color:#E6533C;
 }
-.header{
+.body{
    background-color:  black;
  
+}
+.heder{
+    background-color: rgb(219, 214, 214);
 }
 .btn-col{
    background-color:  #E6533C;
@@ -133,7 +136,53 @@ td {
     color: gray;padding: 5px 10px;
 }
 input{
-    background-color:  rgba(255, 255, 255, 0.6);
+    background-color:gainsboro;
   gap: 20px;  padding: 10px;border-radius: 5px;
+  
 }
- 
+   
+select{
+    background-color: gainsboro;width: 180px;height: 45px;
+    border-radius: 5px;
+}
+.justify{
+    justify-content: space-between;
+}
+.div-2{
+    background-color: rgb(31, 30, 30);
+}
+.div-3{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    background-color: rgb(47, 46, 46);
+    
+   border-radius: 10px;padding: 10px;gap: 20px;
+}
+.div-img{
+    margin-top: -100px;margin-left: 20px;
+}
+.section-4{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;margin-bottom: 40px;
+}
+.footer{
+    background-color: rgb(37, 34, 34);
+   
+    text-align: center; text-align: center;
+}
+.div-4{
+    justify-content: space-around; 
+    
+}
+.under-scor{
+    border: 1px solid rgb(163, 158, 158);
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.last-line{
+    padding: 20px;
+}
