@@ -186,3 +186,53 @@ select{
 .last-line{
     padding: 20px;
 }
+
+
+@media screen and (max-width:576px) {
+.nav-itm{
+    visibility: hidden;
+}
+.section-1,.run ,.div-2,.div-4{
+    flex-direction: column; 
+    gap: 20px; text-align: center;
+}
+.div-1,.div-3{
+    display:grid;grid-template-columns: repeat(1,1fr);
+}.card-1{
+    background-color: rgba(255, 255, 255, 0.1);
+    height: 60px; text-align: center;
+    border-radius: 10px;
+    width: 130px;
+    padding: 10px;
+   margin-top:-350px;margin-left:210px;
+   font-size: .7rem;
+   
+}.card-2{
+    background-color:rgba(255, 255, 255, 0.1) ;
+    height: 50px; width: 110px;
+   gap: 10px;
+   ;border-radius: 10px;
+   padding: 10px;
+   margin-top: -200px;margin-left: 0px;
+   font-size: .6rem;
+    
+  }
+   .section-1 ,.section-3,.section-4{
+    margin: 45px;
+   } 
+   .table{
+     
+      margin-left: 110px;
+   }.bmi{
+    text-align: center;
+   }
+   .btn-1{
+    margin-top: 30px;margin-bottom: 20px; height: 50px;width: 160px;border-radius: 30px;
+   }
+   .btn-2{
+    height: 50px;width: 160px;border-radius: 30px;
+   }
+   .div-btn{
+    justify-content: space-between;
+   }
+}
