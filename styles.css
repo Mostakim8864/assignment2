@@ -215,11 +215,18 @@ input{
     visibility: hidden;
 } 
 .menu-1{
-    margin-top: 0px;   margin-left: 120px;
+    margin-top: 0px;   margin-left: 200px;
 }
 .menu{
    background-color: #FFFFFF;width: 20px;height: 1px;margin-top: 5px;
    
+}
+.navbar{
+    margin-left: 10px;
+}
+.heder
+{
+margin:10px;
 }
 .section-1,.run ,.div-2,.div-4{
     flex-direction: column; 
